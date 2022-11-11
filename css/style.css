@@ -3,3 +3,6 @@ body {
     color: blue;
     padding: 200px;
 }
+footer {
+    display: flex;
+}
